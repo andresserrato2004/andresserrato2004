@@ -18,8 +18,8 @@ Bogotá, Colombia
 
 ## # GITHUB STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andresserrato2004&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=aaaaaa&icon_color=00b32c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresserrato2004&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=aaaaaa)
+![GitHub Stats](https://github-readme-stats-r5x6vocz1-andresscs-projects-7349f14e.vercel.app/api?username=andresserrato2004&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=aaaaaa&icon_color=00b32c)
+![Top Langs](https://github-readme-stats-r5x6vocz1-andresscs-projects-7349f14e.vercel.app/api/top-langs/?username=andresserrato2004&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=aaaaaa)
 
 ## # CONTACT
   email    : andresserrratocamero@gmail.com  
