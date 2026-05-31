@@ -42,9 +42,9 @@ Passionate about clean architecture, security-first design, and developer produc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-r5x6vocz1-andresscs-projects-7349f14e.vercel.app/api?username=andresserrato2004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&include_all_commits=true&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-ivory-rho-74.vercel.app/api?username=andresserrato2004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-r5x6vocz1-andresscs-projects-7349f14e.vercel.app/api/top-langs/?username=andresserrato2004&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-ivory-rho-74.vercel.app/api/top-langs/?username=andresserrato2004&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=andresserrato2004&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7d8590&currStreakNum=58a6ff&sideNums=c9d1d9)
 
