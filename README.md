@@ -2,7 +2,7 @@
 
 # Andres Serrato Camero
 
-**Software Engineer** · Bogotá, Colombia
+**Systems Engineer** · Bogotá, Colombia
 
 ![Backend](https://img.shields.io/badge/Backend-%2358a6ff?style=flat-square&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-%233fb950?style=flat-square&logoColor=white)
@@ -15,14 +15,15 @@
 
 ### About
 
-Software engineer graduated from **Escuela Colombiana de Ingeniería Julio Garavito**.  
-I build backend systems, cloud infrastructure, and automation tooling.  
-Passionate about clean architecture, security-first design, and developer productivity.
+Systems engineer  from **Escuela Colombiana de Ingeniería Julio Garavito**.  
+
+Passionate about, security and developer.
 
 ---
 
 ### Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -34,7 +35,6 @@ Passionate about clean architecture, security-first design, and developer produc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
@@ -54,4 +54,4 @@ Passionate about clean architecture, security-first design, and developer produc
 
 ### Contact
 
-📧 andresserrratocamero@gmail.com &nbsp;·&nbsp; he/him
+andresserrratocamero@gmail.com &nbsp;·&nbsp; 
